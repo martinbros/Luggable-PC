@@ -2,7 +2,7 @@
 
 ## Goal
 
-To build a luggable (portable) PC utilizing off the shelf parts for use at LAN parties and other remote events.
+To build a luggable (portable) PC utilizing off the shelf computer parts for use at LAN parties and other remote events. Heavy inspiration was taken from [Ragnar84's](https://pcpartpicker.com/b/yjrV3C) build.
 
 ## Construction
 
